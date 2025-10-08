@@ -18,7 +18,7 @@ Le projet principal présenté porte sur une **application web et mobile de bien
 ### 📱 QR Code - Accès rapide
 
 <div align="center">
-  <img src="./assets/qr-code.png" alt="QR Code du projet" width="200" height="200">
+  <img src="./assets/img/qrCode.png" alt="QR Code du projet" width="200" height="200">
   <p><em>Scannez pour accéder à l'App web & web mobile</em></p>
 </div>
 
