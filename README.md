@@ -70,25 +70,23 @@ Le titre professionnel DWWM valide les compétences suivantes :
 
 - **React.js** / **Next.js**
 - **HTML5** / **CSS3**
-- **JavaScript** / **TypeScript**
+- **JavaScript** 
 - **Responsive Design**
 
 ### Back-end
 
 - **Node.js**
-- **Express.js**
 - **API REST**
 
 ### Base de données
 
-- **MongoDB** / **PostgreSQL**
+- **PostgreSQL**
 - **Prisma ORM**
 
 ### Outils de développement
 
 - **Git** / **GitHub**
 - **VS Code**
-- **Docker**
 - **Vercel** (déploiement)
 
 ---
@@ -116,8 +114,8 @@ Application web et mobile dédiée au bien-être et à la formation, permettant 
 
 ## 📅 Planning du passage
 
-**Date de soutenance :** À définir  
-**Durée :** 1h15
+**Date de soutenance :** 15/10/2025 à 16h00 
+**Durée :** 1h30
 
 - Présentation du projet (35 min)
 - Entretien technique (45 min)
