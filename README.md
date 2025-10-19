@@ -1,7 +1,5 @@
 # 📁 Titre Professionnel - Développeur Web et Web Mobile (DWWM)
 
-## 👩‍💻 Candidat
-
 **Fanny SAEZ**  
 Formation Simplon - Promotion 2025
 
@@ -135,8 +133,8 @@ Application web et mobile dédiée au bien-être et à la formation, permettant 
 ## 📞 Contact
 
 **Fanny SAEZ**  
-📧 Email : [votre.email@exemple.com]  
-💼 LinkedIn : [Votre profil LinkedIn]  
+📧 Email : [M'écrire](mailto:devweb.design.diy@gmail.com)  
+💼 LinkedIn : [Fanny](https://www.linkedin.com/in/fannysaez/)  
 🐱 GitHub : [fannysaez](https://github.com/fannysaez)
 
 ---
