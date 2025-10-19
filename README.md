@@ -136,6 +136,7 @@ Application web et mobile dédiée au bien-être et à la formation, permettant 
 📧 Email : [M'écrire](mailto:devweb.design.diy@gmail.com)  
 💼 LinkedIn : [Fanny](https://www.linkedin.com/in/fannysaez/)  
 🐱 GitHub : [fannysaez](https://github.com/fannysaez)
+📄 CV : [CV en ligne](https://fannysaez.github.io/cv-en-ligne/)
 
 ---
 
