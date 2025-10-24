@@ -144,7 +144,7 @@ Application web et mobile dédiée au bien-être et à la formation, permettant 
 
 - Tous les documents sont organisés par catégorie pour faciliter la navigation
 - Les fichiers PDF contiennent les versions finales des documents officiels
-- La documentation de déploiement est disponible en format Markdown et PDF
+- La documentation de déploiement est disponible en format PDF
 - Ce repository sert de portfolio pour démontrer les compétences acquises
 
 ---
