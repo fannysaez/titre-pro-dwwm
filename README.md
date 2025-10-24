@@ -28,7 +28,6 @@ Le projet principal présenté porte sur une **application web et mobile de bien
 
 Documentation technique relative au déploiement d'applications Next.js
 
-- `Documentation_Deploiement_NextJs.md` - Guide de déploiement (format Markdown)
 - `Documentation_Deploiement_NextJs.pdf` - Guide de déploiement (format PDF)
 
 ### 📂 `dossier-professionnel/`
